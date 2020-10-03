@@ -11,7 +11,7 @@ Si usted va a adoptar / consultar por uno de nuestros felinos o dar un aviso por
 
 ## Contacto con Callejeros
 
- - **Teléfono (BIZUM) (Adopciones):** 664 12 57 57
+ - **Teléfono (BIZUM) (Adopciones):** 664 12 53 57
  - **Correo-e:** callejeroslepe@gmail.com
  - **Correo pagos (PayPal):** soniaperezsanchez44@gmail.com
  - **Instagram:** @callejerosdelepe
