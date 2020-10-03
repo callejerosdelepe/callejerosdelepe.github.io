@@ -1,7 +1,6 @@
 # Contacto - Callejeros de Lepe
 
 | [Inicio](http://beta.callejerosdelepe.org/) | [Blog](http://beta.callejerosdelepe.org/blog) | [Base de datos](http://beta.callejerosdelepe.org/database) | [Contacto](http://beta.callejerosdelepe.org/contact) |
-|--|--|--|--|
 
 ## Aviso antes de contactar
 Si usted va a adoptar / consultar por uno de nuestros felinos o dar un aviso por favor tenga en cuenta lo siguiente
