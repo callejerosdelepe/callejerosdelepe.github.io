@@ -1,5 +1,5 @@
 
-# Blog - Callejeros de Lepe
+# Blog
 
 | [Inicio](http://beta.callejerosdelepe.org/) | [Blog](http://beta.callejerosdelepe.org/blog) | [Base de datos](http://beta.callejerosdelepe.org/database) | [Contacto](http://beta.callejerosdelepe.org/contact) |
 
