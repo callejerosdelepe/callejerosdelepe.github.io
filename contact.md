@@ -7,7 +7,7 @@ Si usted va a adoptar / consultar por uno de nuestros felinos o dar un aviso por
 
 `Sobre las consultas / adopciones. Por favor se ruega que las llamadas sean serias porque hay personas que SI quieran adoptar y otras que solo quieran hacer bromas telefónicas.`
 
-Dicho esto os dejamos los contactos aquí.
+## Contacto con Callejeros
 
  - **Teléfono (BIZUM) (Adopciones):** 664 12 57 57
  - **Correo-e:** callejeroslepe@gmail.com
@@ -16,7 +16,7 @@ Dicho esto os dejamos los contactos aquí.
  - facebook.com/callejerosdelepe
  - teaming.net/callejerosdelepe
 
-Administración del sitio web (Webmaster)
+## Contacto con Webmaster
 
 **José Manuel S.**
  
