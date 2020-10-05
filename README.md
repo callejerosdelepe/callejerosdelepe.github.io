@@ -2,7 +2,7 @@
 
 | [Inicio](https://beta.callejerosdelepe.org/) | [Blog](https://beta.callejerosdelepe.org/blog) | [Base de datos](https://beta.callejerosdelepe.org/database) | [Contacto](https://beta.callejerosdelepe.org/contact) |
 
-### ALERTA: Se necesita transportista solidario desde Lepe o Huelva hasta Málaga. Puede contactar con Marisol García [Pulido aquí](tel:636362003)
+### ALERTA: Se necesita transportista solidario desde Lepe o Huelva hasta Málaga. Puede contactar con Marisol García Pulido [aquí](tel:636362003)
 
 Bienvenido/a a nuestra página web.
 
