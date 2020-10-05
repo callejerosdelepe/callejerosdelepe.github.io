@@ -2,6 +2,8 @@
 
 | [Inicio](https://beta.callejerosdelepe.org/) | [Blog](https://beta.callejerosdelepe.org/blog) | [Base de datos](https://beta.callejerosdelepe.org/database) | [Contacto](https://beta.callejerosdelepe.org/contact) |
 
+### ALERTA: Se necesita transportista solidario desde Lepe o Huelva hasta Málaga. Puede contactar con Marisol García [Pulido aquí](tel:636362003)
+
 Bienvenido/a a nuestra página web.
 
 Callejeros de Lepe se fundó en 2016 y actualmente cuida de las colonias felinas en Lepe. Entre estas colonias se ubican las siguientes:
