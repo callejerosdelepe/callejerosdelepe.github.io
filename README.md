@@ -1,8 +1,6 @@
 # Inicio
 
-| [Inicio](https://beta.callejerosdelepe.org/) | [Blog](https://beta.callejerosdelepe.org/blog) | [Base de datos](https://beta.callejerosdelepe.org/database) | [Contacto](https://beta.callejerosdelepe.org/contact) |
-
-### ALERTA: Se necesita transportista solidario desde Barcelona hasta Gerona. Puede contactar con Marisol García Pulido [aquí](tel:636362003) o con Sonia Perez Sanchez [aquí](https://beta.callejerosdelepe.org/contact) (Contacto con callejeros)
+| [Inicio](https://www.callejerosdelepe.org/) | [Blog](https://www.callejerosdelepe.org/blog) | [Base de datos](https://www.callejerosdelepe.org/database) | [Contacto](https://www.callejerosdelepe.org/contact) |
 
 Bienvenido/a a nuestra página web.
 
