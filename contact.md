@@ -23,9 +23,5 @@ Si usted va a adoptar / consultar por uno de nuestros felinos o dar un aviso por
 **José Manuel S.**
  
 - **Teléfono (Contacto Personal):** 627 05 85 28
-- **Teléfono (Supbuntu):** 642 45 55 01
-- **Github (suareztocino00):** [clic aquí](https://github.com/suareztocino00)
-- **Mi perfil (Español / Inglés):** [clic aquí](https://suareztocino00.github.io)
-- **Github (Supbuntu) (Repositorio):** [clic aquí](https://github.com/supbuntu)
-- **Supbuntu:** [clic aquí](https://supbuntu.github.io) 
+- **Correo electrónico (Personal):** suareztocinojosemanuel@gmail.com
 
