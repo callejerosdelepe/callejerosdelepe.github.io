@@ -3,7 +3,10 @@
 
 | [Inicio](https://beta.callejerosdelepe.org/) | [Blog](https://beta.callejerosdelepe.org/blog) | [Base de datos](https://beta.callejerosdelepe.org/database) | [Contacto](https://beta.callejerosdelepe.org/contact) |
 
-## 03 de octubre de 2020
+## 1 de enero de 2021
 
-### 1:54 p.m. -- Titulo: Inicio de la web / Escrito por: Administrador
-Bienvenido a la web en estado beta. Estamos intentando mejorar cada día como bien sabréis y no es nada fácil así que queremos que os guste todo el trabajo que hacemos cada día.
+### Lanzamiento oficial de la Web de Callejeros de Lepe con un "catapp" (Doddle de Callejeros)
+
+En callejeros hemos tenido siempre diferencias, en 2020 con dificultades, pero este 2021 llega con sorpresas, con alegrias y con ganas de más. Todos podreís disfrutar de un catapp en nuestra web con el nuevo buscador de Callejeros de Lepe.
+
+~ José Manuel (Webmaster)
